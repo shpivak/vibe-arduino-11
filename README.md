@@ -3,6 +3,8 @@
 > A beginner-friendly Arduino project guide for kids aged 8–12, using the **Arduino MEGA2560 Complete Starter Kit**.
 > Hebrew version: [README_HE.md](README_HE.md)
 
+> **For AI agents / Claude:** Read [`CLAUDE.md`](CLAUDE.md) before doing anything in this repo. It defines user modes, guardrails, git workflow, and output format.
+
 ---
 
 ## What is this?
